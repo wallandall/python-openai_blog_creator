@@ -6,12 +6,11 @@
 
 1. Run `Python -m pip install -r requirements.txt`
 2. Create a ___.env___ file to store your API Key. The contents of the file should be as below:
-  
-```Python
-API_SECRET='ENTER_YOUR_KEY'
-```
+   ```Python
+      API_SECRET='ENTER_YOUR_KEY'
+   ```
 
-3. This project uses github pages to publish blog post
+1. This project uses github pages to publish blog post
 
 ## Running the Application
 
